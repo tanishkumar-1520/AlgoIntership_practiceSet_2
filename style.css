@@ -1,0 +1,36 @@
+*{
+    padding: 15px;
+    text-align: center;
+}
+
+
+h1{
+    color: gray;
+}
+ 
+.grey{
+    color: green;
+    text-decoration:underline ;
+
+}
+
+.border_1{
+    text-decoration:underline ;
+    border: 1px solid black;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+}
+.border_2{
+    text-decoration:underline ;
+    border: 1px solid black;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+}
+
+#border{
+     border: 1px solid black;
+     text-align: center;
+     padding: 20px;
+}
